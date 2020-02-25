@@ -7,5 +7,6 @@ Hi! This is a list of some of my personal favorite things in Madison, WI.
 - [Drinks](drinks.md)
 - [Activities](activities.md)
 - [Neighborhoods](neighborhoods.md)
+- [RIP](rip.md)
 
 [Contribute](https://github.com/dcchambers/madison)
